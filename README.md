@@ -91,7 +91,7 @@ Performance metrics beyond accuracy were used to assess the models due to class 
 ![Bannière](images/cm_log_res.png)
 ![Bannière](images/cm_dt_res.png)
 
-**RO0-AUC / curve**
+**ROC-AUC / curve**
 
 ![Bannière](images/curve_log_base.png)
 ![Bannière](images/curve_dt_base.png)
